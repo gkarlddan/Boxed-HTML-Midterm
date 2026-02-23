@@ -31,4 +31,20 @@
 #footer-con {
     /* This is temporary, let content dictate the height */
     height: 150px;
+<<<<<<< Updated upstream
+=======
+}
+
+#burger-con {
+    display: none;
+}
+
+@media screen and (max-width: 768px) { 
+   #burger-con { 
+        display: block;
+   }
+   #nav-con {
+        display: none;
+   }
+>>>>>>> Stashed changes
 }
