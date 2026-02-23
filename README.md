@@ -24,6 +24,7 @@ Open index.html in the browser of your choice.
 3. Added second page, began work on changes after completing the first page.
 4. Added .git files to hide assets, and keep css, and js folders visible.
 5. Completed second page, commited to GitHub and published.
+6. Added content, and let css dictate size for content not yet made.
 
 ## Credits 💬
 
