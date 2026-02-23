@@ -31,4 +31,32 @@
 #footer-con {
     /* This is temporary, let content dictate the height */
     height: 150px;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+}
+
+#burger-con {
+    display: none;
+}
+
+@media screen and (max-width: 768px) { 
+   #burger-con { 
+        display: block;
+   }
+   #nav-con {
+        display: none;
+   }
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 }
