@@ -19,7 +19,11 @@ Open index.html in the browser of your choice.
 
 ## History 📑
 
-TBA
+1. Began work on starting page, using grid css file as a guide.
+2. Added content to page, as well as using the main css file to dictate size as a basis.
+3. Added second page, began work on changes after completing the first page.
+4. Added .git files to hide assets, and keep css, and js folders visible.
+5. Completed second page, commited to GitHub and published.
 
 ## Credits 💬
 
